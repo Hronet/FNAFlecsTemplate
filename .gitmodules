@@ -1,0 +1,6 @@
+[submodule "FNA"]
+	path = FNA
+	url = https://github.com/FNA-XNA/FNA.git
+[submodule "Flecs.NET"]
+	path = Flecs.NET
+	url = https://github.com/BeanCheeseBurrito/Flecs.NET.git

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Default", "Default\Default.csproj", "{3CA4E3F6-3A6E-46C7-A9DA-7F382B1F4544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA.Core", "..\FNA\FNA.Core.csproj", "{A6EC4D51-2C6A-48E4-A2C9-D2F4B3EC2139}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flecs.NET", "..\Flecs.NET\src\Flecs.NET\Flecs.NET.csproj", "{84A0B0C1-8D2B-4A0E-A0DC-6ABA498C9349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CA4E3F6-3A6E-46C7-A9DA-7F382B1F4544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CA4E3F6-3A6E-46C7-A9DA-7F382B1F4544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CA4E3F6-3A6E-46C7-A9DA-7F382B1F4544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CA4E3F6-3A6E-46C7-A9DA-7F382B1F4544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EC4D51-2C6A-48E4-A2C9-D2F4B3EC2139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EC4D51-2C6A-48E4-A2C9-D2F4B3EC2139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EC4D51-2C6A-48E4-A2C9-D2F4B3EC2139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EC4D51-2C6A-48E4-A2C9-D2F4B3EC2139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84A0B0C1-8D2B-4A0E-A0DC-6ABA498C9349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84A0B0C1-8D2B-4A0E-A0DC-6ABA498C9349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84A0B0C1-8D2B-4A0E-A0DC-6ABA498C9349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84A0B0C1-8D2B-4A0E-A0DC-6ABA498C9349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
